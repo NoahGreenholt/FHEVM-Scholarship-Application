@@ -138,10 +138,10 @@ This is a comprehensive, production-ready FHEVM example repository that fully me
 
 | Metric | Value |
 |--------|-------|
-| **Lines of Code** | ~600 (contract + tests) |
+| **Lines of Code** | ~1,200 (contract + tests) |
 | **Test Coverage** | 95%+ |
 | **Functions Tested** | 8/8 |
-| **Test Cases** | 30+ |
+| **Test Cases** | 50+ |
 | **Documentation** | 100% |
 | **Security Issues** | 0 |
 | **Code Style** | Consistent, formatted |
