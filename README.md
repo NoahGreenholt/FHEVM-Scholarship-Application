@@ -4,6 +4,10 @@
 
 A production-ready, comprehensive FHEVM example demonstrating privacy-preserving scholarship application processing using Fully Homomorphic Encryption. This project is a standalone, Hardhat-based example repository with clean tests, automated scaffolding, and self-contained documentation.
 
+[Demo FHEVM Scholarship Application.mp4](https://streamable.com/ujc3cw)
+
+[Live Demo](https://fhevm-scholarship-application.vercel.app/)
+
 ## 🎯 Project Vision
 
 This repository provides developers with a complete, professional-grade example for building privacy-preserving applications. It demonstrates how to leverage FHEVM's encrypted types and operations to create real-world systems where sensitive data remains encrypted throughout evaluation processes.
